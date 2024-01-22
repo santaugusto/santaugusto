@@ -17,7 +17,7 @@
 ✒️ Eu gosto de no meu tempo livre [Praticar esportes como Boxe, Jujtsu e natação, gosto tambem de assitir filmes e series ir a bom restaurantes para experimentar
 comidas diferentes e jogar um xadrez no meio tempo];
 
-📚 Lendo: [O Principe de Makiavel]
+📚 [0]
 
 
 **Tecnologias e Ferramentas**
