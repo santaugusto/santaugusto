@@ -8,10 +8,10 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [[Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2)  | Analise e Desenvolvimento de Sistemas ]
-
-👩‍💻 Atualmente eu trabalho como [Monitor] @ [Infinity School]
-
+🎓 Eu estudo | Analise e Desenvolvimento de Sistemas  na Wyden Unijorge]
+🎓 Eu formado nos cursos [[Desenvolvimento de Software Fullstack]([https://cubos.academy/cursos/desenvolvimento-de-software-v2](https://www.infinityschool.app/static/logo.png)) | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2)  
+👩‍💻 Atualmente eu trabalho como [Professor] @ [Infinity School]
+👩‍💻 Atualmente eu trabalho como [Desenvolvedor] @ [Grupo Plantão]
 🔎 Também sou curioso sobre [Xadrez, Data Sience]
 
 ✒️ Eu gosto de no meu tempo livre [Praticar esportes como Boxe, Jujtsu e natação, gosto tambem de assitir filmes e series ir a bom restaurantes para experimentar
@@ -41,8 +41,7 @@ comidas diferentes e jogar um xadrez no meio tempo];
 ### Eu estou estudando... 🧩
 <!-- (Aqui você pode adicionar tecnologias que está estudando, inclusive para aumentar essa lista você listamos algumas das tecnologias ensinadas na nossa [Assinatura On Demand](https://cubos.academy/cubosondemand)) -->
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ReactNative](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
