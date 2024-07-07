@@ -9,7 +9,8 @@
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
 🎓 Eu estudo | Analise e Desenvolvimento de Sistemas  na Wyden Unijorge]
-🎓 Eu formado nos cursos [[Desenvolvimento de Software Fullstack]([[https://cubos.academy/cursos/desenvolvimento-de-software-v2](https://www.infinityschool.app/static/logo.png)](https://infinityschool.eadplataforma.app/)) | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2)  
+
+🎓 Eu formado nos cursos [[Desenvolvimento de Software Fullstack](https://infinityschool.eadplataforma.app/)| [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2)  
 👩‍💻 Atualmente eu trabalho como [Professor] @ [Infinity School]
 👩‍💻 Atualmente eu trabalho como [Desenvolvedor] @ [Grupo Plantão]
 🔎 Também sou curioso sobre [Xadrez, Data Sience]
