@@ -10,15 +10,14 @@
 
 🎓 Eu estudo | Analise e Desenvolvimento de Sistemas  na Wyden Unijorge]
 
-🎓 Eu formado nos cursos [[Desenvolvimento de Software Fullstack](https://infinityschool.eadplataforma.app/)| [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2)  
-👩‍💻 Atualmente eu trabalho como [Professor] @ [Infinity School]
-👩‍💻 Atualmente eu trabalho como [Desenvolvedor] @ [Grupo Plantão]
+🎓 Eu formado nos cursos [[Desenvolvimento de Software Fullstack](https://infinityschool.eadplataforma.app/) && [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) ] 
+👩‍💻 Atualmente eu trabalho como [Professor] @ [Infinity School] && [Desenvolvedor] @ [Grupo Plantão]
 🔎 Também sou curioso sobre [Xadrez, Data Sience]
 
 ✒️ Eu gosto de no meu tempo livre [Praticar esportes como Boxe, Jujtsu e natação, gosto tambem de assitir filmes e series ir a bom restaurantes para experimentar
 comidas diferentes e jogar um xadrez no meio tempo];
 
-📚 [0]
+📚 [programador pragmatico]
 
 
 **Tecnologias e Ferramentas**
